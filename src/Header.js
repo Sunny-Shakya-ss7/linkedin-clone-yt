@@ -30,7 +30,7 @@ function Header() {
         <HeaderOption Icon={ChatIcon} title="Messaging" />
         <HeaderOption Icon={NotificationsIcon} title="Notifications" />
         <HeaderOption
-          avatar="https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/cool-boy-alan-herry.jpg"
+          avatar="https://cdn.trendhunterstatic.com/thumbs/profile-pic-photoshoot.jpeg"
           title="Me"
         />
       </div>
